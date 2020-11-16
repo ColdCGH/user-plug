@@ -2,6 +2,7 @@
     "name": "coldcgh/user-plug",
     "description": "这是用于个人学习的插件",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "coldcgh",
