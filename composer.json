@@ -1,0 +1,13 @@
+{
+    "name": "coldcgh/user-plug",
+    "description": "这是用于个人学习的插件",
+    "type": "library",
+    "authors": [
+        {
+            "name": "coldcgh",
+            "email": "coldcgh@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
